@@ -1,4 +1,4 @@
-Redis Script Manager for Java [![Build Status](https://travis-ci.org/moznion/redis-script-manager-core.svg?branch=master)](https://travis-ci.org/moznion/redis-script-manager-core)
+Redis Script Manager for Java [![Build Status](https://travis-ci.org/moznion/redis-script-manager-core.svg?branch=master)](https://travis-ci.org/moznion/redis-script-manager-core) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.moznion/redis-script-manager-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.moznion/redis-script-manager-core)
 ==
 
 Simple manager for scripting of Redis.  
