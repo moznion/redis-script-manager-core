@@ -20,7 +20,7 @@ public abstract class ScriptManager<K, V> {
         return sha1;
     }
 
-    protected String digestSHA1(final V script) {
+    private String digestSHA1(final V script) {
         final MessageDigest messageDigest;
         try {
             messageDigest = MessageDigest.getInstance("SHA-1");
