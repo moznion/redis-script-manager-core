@@ -7,7 +7,7 @@ import java.security.NoSuchAlgorithmException;
 import javax.xml.bind.DatatypeConverter;
 
 public abstract class ScriptManager<K, V> {
-    private String sha1;
+    protected String sha1;
 
     public abstract Object eval(K[] keys);
 
