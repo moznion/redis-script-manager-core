@@ -1,3 +1,6 @@
+0.3.0 2016-05-11T15:09:56Z
+    - Make digestSHA1() to be public static method
+
 0.2.0 2016-05-10T14:58:33Z
     - Make ScriptManager#digestSHA1() to be private
 
