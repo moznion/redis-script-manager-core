@@ -1,8 +1,9 @@
-0.1.0 2016-05-10T14:48:34Z
+0.2.0 2016-05-10T14:58:33Z
+    - Make ScriptManager#digestSHA1() to be private
 
+0.1.0 2016-05-10T14:48:34Z
     - Make sha1 field to be protected
 
 0.0.1 2016-05-10T05:56:06Z
-
     - Original version
 
