@@ -13,6 +13,10 @@ public abstract class ScriptManager<K, V> {
 
     public abstract Object eval(K[] keys, V[] values);
 
+    protected ScriptManager(final String sha1) {
+        this.sha1 = sha1;
+    }
+
     protected String getSHA1(final V script) {
         if (sha1 == null) {
             sha1 = digestSHA1(script);
