@@ -1,3 +1,6 @@
+0.4.0 2016-05-11T03:44:32Z
+    - Put protected constructor
+
 0.3.0 2016-05-11T15:09:56Z
     - Make digestSHA1() to be public static method
 
